@@ -29,6 +29,7 @@
     "core-js": "^2.5.4",
     "rxjs": "~6.5.4",
     "tslib": "^2.5.0",
+    "validator": "^13.9.0",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
